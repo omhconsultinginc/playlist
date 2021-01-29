@@ -7,4 +7,7 @@ Song 5- Author 2
 
 song 6 - Added by another author
 
+song 7 - relaxing song 1
+song 8 - relaxing song 2
+
 
